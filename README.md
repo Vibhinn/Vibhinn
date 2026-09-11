@@ -1,16 +1,21 @@
-## Hi there 👋
+# hey, I'm Vibhinn 👋
 
-<!--
-**Vibhinn/Vibhinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*me loves bdsm (beauty driven software development)*
 
-Here are some ideas to get you started:
+```
+if (problem.isInteresting()) {
+  buildFromScratch();   // even if a library exists
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently
+- 🚪 building **[Tollgate](https://gettollgate.com)** — an LLM gateway with semantic caching, rate limiting, and more moving parts than a Lexus LS 400
+- 📖 reading DDIA like it's a thriller novel
+
+### also true about me
+- built a Redis clone (tinydb, in Go) in one sitting because "how hard could it be"
+- did Formula Student with an electric driverless car (*4 times*)
+- overlanding enthusiast — my car's gonna have more mods than my code has tests
+
+### currently chasing
+the high of building software used by millions
