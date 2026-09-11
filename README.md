@@ -18,3 +18,7 @@ if problem.is_interesting:
 
 ### currently chasing
 the high of building software used by millions
+
+### side note
+- this profile is a port from my original one (@VibhinnS) - but GitHub HQ people smoked pot one day and banned it
+- hence, please don't judge for the barren contribution heatmap
