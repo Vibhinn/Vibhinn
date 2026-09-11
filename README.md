@@ -5,7 +5,6 @@
 ```
 if problem.is_interesting:
   build_from_scratch()
-
 ```
 
 ### currently
