@@ -3,9 +3,9 @@
 *me loves bdsm (beauty driven software development)*
 
 ```
-if (problem.isInteresting()) {
-  buildFromScratch();   // even if a library exists
-}
+if problem.is_interesting:
+  build_from_scratch()
+
 ```
 
 ### currently
