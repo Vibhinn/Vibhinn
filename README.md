@@ -20,5 +20,5 @@ if problem.is_interesting:
 the high of building software used by millions
 
 ### side note
-- this profile is a port from my original one (@VibhinnS) - but GitHub HQ people smoked pot one day and banned it
-- hence, please don't judge for the barren contribution heatmap
+- this profile is a port from my original one (@VibhinnS) - but GitHub HQ smoked pot and banned it
+- so please don't judge for this empty af contribution graph
