@@ -1,6 +1,6 @@
 # ciao
 
-*me loves bdsm (beauty driven software development)*
+*machines listen, humans judge*
 
 ```
 if problem.is_interesting:
@@ -14,11 +14,12 @@ if problem.is_interesting:
 ### also true about me
 - built a Redis clone (tinydb, in Go) in one sitting because "how hard could it be"
 - did Formula Student with an electric driverless car (*4 times*)
-- overlanding enthusiast — my car's gonna have more mods than my code has tests
+- will make you laugh
 
 ### currently chasing
 the high of building software used by millions
 
-### side note
+
+### *side note*
 - this profile is a port from my original one (@VibhinnS) - but GitHub HQ smoked pot and banned it
-- so please don't judge for this empty af contribution graph
+- so please don't judge for this empty as hell contribution graph
