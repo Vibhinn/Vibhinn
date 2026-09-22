@@ -17,4 +17,4 @@ the high of building software used by millions
 
 ### *side note*
 - this profile is a port from my original one (@VibhinnS) - but GitHub HQ smoked pot and banned it
-- so please don't judge for this empty as hell contribution graph
+- so please don't judge for this empty contribution graph
