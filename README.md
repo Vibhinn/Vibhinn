@@ -11,7 +11,7 @@ if problem.is_interesting:
 - 🚪 building **[Tollgate](https://gettollgate.com)** — an LLM gateway with semantic caching, rate limiting, and more moving parts than a Lexus LS 400
 - 📖 reading DDIA like it's a thriller novel
 
-### currently chasing
+### chasing
 the high of building software used by millions
 
 
